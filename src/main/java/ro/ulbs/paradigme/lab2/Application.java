@@ -12,5 +12,5 @@ public class Application {
         Triangle tri2 = new Triangle(1.1, 2.1);
         System.out.println("Triangle2 equals to Triangle1: " + tri.equals(tri2));
         System.out.println(sq.getContor());
-    }
+    }//
 }
